@@ -17,7 +17,7 @@ import "bootstrap/dist/css/bootstrap.css";
             <router-link to="/survey">Form Library</router-link>
           </li>
           <li>
-            <router-link to="/creator">Survey Creator</router-link>
+            <router-link to="/creator">Form Creator</router-link>
           </li>
           <li>
             <router-link to="/exportpdf">PDF Generator</router-link>
